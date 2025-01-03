@@ -1,0 +1,18 @@
+save/*
+!save/.gitkeep
+save_qrcode/*
+<<<<<<< HEAD
+<<<<<<< HEAD
+!save_qrcode/.gitkeep
+=======
+!save_qrcode/.gitkeep
+save_print_img/*
+!save_print_img/.gitkeep
+.env
+>>>>>>> c80ce0a (api키 푸쉬 안되도록 코드 변경)
+=======
+!save_qrcode/.gitkeep
+save_print_img/*
+!save_print_img/.gitkeep
+.env
+>>>>>>> 01072226b3fddecc4cbe5cd49295d1a8b0591a8f

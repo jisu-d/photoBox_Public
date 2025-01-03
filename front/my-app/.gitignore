@@ -1,0 +1,47 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+.env
+.env.*
+!.env.example
+.vercel
+.output
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# 1번 디렉토리
+static/frame/1/*
+!static/frame/1/.gitkeep
+!static/frame/1/cover_imgs/
+static/frame/1/cover_imgs/*
+!static/frame/1/cover_imgs/.gitkeep
+
+# 2번 디렉토리
+static/frame/2/*
+!static/frame/2/.gitkeep
+!static/frame/2/cover_imgs/
+static/frame/2/cover_imgs/*
+!static/frame/2/cover_imgs/.gitkeep
+
+# 3번 디렉토리
+static/frame/3/*
+!static/frame/3/.gitkeep
+!static/frame/3/cover_imgs/
+static/frame/3/cover_imgs/*
+!static/frame/3/cover_imgs/.gitkeep
+
+# 4번 디렉토리
+static/frame/4/*
+!static/frame/4/.gitkeep
+!static/frame/4/cover_imgs/
+static/frame/4/cover_imgs/*
+!static/frame/4/cover_imgs/.gitkeep
+
+# 5번 디렉토리
+static/frame/5/*
+!static/frame/5/.gitkeep
+!static/frame/5/cover_imgs/
+static/frame/5/cover_imgs/*
+!static/frame/5/cover_imgs/.gitkeep
